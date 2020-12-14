@@ -7,7 +7,7 @@ import java.io.IOException;
 //Importamos xq esta en otro paquete
 import ejerciciosPOO.Libro;
 
-public class Bliblioteca {
+public class Bliblioteca  {
 
 	public static void main(String[] args)throws IOException {
 		
